@@ -1,12 +1,56 @@
-# Temperature Converter
+\# Temperature Converter
 
-Simple temperature conversion tool.
+Невеликий Python-проєкт, який дозволяє конвертувати температуру між різними одиницями вимірювання.
 
-Hirchak
-KN-21
-:)
+Підтримуються Цельсій, Фаренгейт та Кельвін.
 
 
-Test text change
-GitHub change
+
+\## Функціональність
+
+* Конвертація з Цельсія в Фаренгейт
+* Конвертація з Фаренгейта в Цельсій
+* Конвертація з Цельсія в Кельвіни
+* Конвертація з Кельвінів у Цельсій
+* Зручний інтерфейс виклику функцій
+
+  ## Встановлення
+
+1\. Клонуйте репозиторій:
+
+``````bash
+
+git clone https://github.com/HARCHIK-UA/temperature-converter.git
+
+``````
+2. Перейдіть у директорію:
+
+``````bash
+cd temperature-converter
+``````
+
+3\. Запустіть програму:
+
+``````bash
+python main.py
+``````
+
+
+
+\# Приклад використання
+print(c\_to\_f(25))   # → 77.0
+
+print(f\_to\_c(77))   # → 25.0
+
+## Автор
+
+\*\*Ім’я\*\*: Гірчак Олександр
+
+\*\*Група\*\*: КН-21
+
+\*\*Email\*\*: clapicap@gmail.com
+
+\*\*GitHub\*\*: \[@HARCHIK-UA](https://github.com/HARCHIK-UA)
+
+
 
