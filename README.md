@@ -54,13 +54,13 @@ print(f\_to\_c(77))   # → 25.0
 
 ## Автор
 
-\*\*Ім’я\*\*: Гірчак Олександр
+**Ім’я**: Гірчак Олександр
 
-\*\*Група\*\*: КН-21
+**Група**: КН-21
 
-\*\*Email\*\*: clapicap@gmail.com
+**Email**: clapicap@gmail.com
 
-\*\*GitHub\*\*: \[@HARCHIK-UA](https://github.com/HARCHIK-UA)
+**GitHub**: \[@HARCHIK-UA](https://github.com/HARCHIK-UA)
 
 
 ## Плани розвитку
